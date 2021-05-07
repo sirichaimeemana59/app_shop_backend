@@ -2,14 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="384f6821-266f-462e-86da-89620e537873" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Product/ProductControllers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Product/ProductControllers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/User/UserControllers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User/Users.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2021_05_05_133902_create_user_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/data/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/testing/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/testing/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/logs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -134,16 +149,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/file" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/User" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/Http/Controllers" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/Http/Controllers/User" />
     </key>
   </component>
   <component name="RunManager">
@@ -160,7 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620220132682</updated>
-      <workItem from="1620220133729" duration="7317000" />
+      <workItem from="1620220133729" duration="7611000" />
+      <workItem from="1620259994881" duration="1208000" />
+      <workItem from="1620272794799" duration="544000" />
+      <workItem from="1620278389767" duration="508000" />
+      <workItem from="1620303427495" duration="493000" />
+      <workItem from="1620345381295" duration="2157000" />
     </task>
     <servers />
   </component>
@@ -176,25 +197,25 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="184" y="221" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.25.1440.875@0.25.1440.875" timestamp="1620226860723" />
-    <state width="848" height="228" key="GridCell.Tab.0.bottom" timestamp="1620220209240">
+    <state width="848" height="228" key="GridCell.Tab.0.bottom" timestamp="1620232879178">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="848" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1620220209240" />
-    <state width="848" height="228" key="GridCell.Tab.0.center" timestamp="1620220209239">
+    <state width="848" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1620232879178" />
+    <state width="848" height="228" key="GridCell.Tab.0.center" timestamp="1620232879177">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="848" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1620220209239" />
-    <state width="848" height="228" key="GridCell.Tab.0.left" timestamp="1620220209238">
+    <state width="848" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1620232879177" />
+    <state width="848" height="228" key="GridCell.Tab.0.left" timestamp="1620232879176">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="848" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1620220209238" />
-    <state width="848" height="228" key="GridCell.Tab.0.right" timestamp="1620220209239">
+    <state width="848" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1620232879176" />
+    <state width="848" height="228" key="GridCell.Tab.0.right" timestamp="1620232879178">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="848" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1620220209239" />
-    <state x="111" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1620227665968">
+    <state width="848" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1620232879178" />
+    <state x="111" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1620354874852">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="111" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1620227665968" />
+    <state x="111" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1620354874852" />
   </component>
 </project>

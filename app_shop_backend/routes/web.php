@@ -16,9 +16,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/token', function () {
+    return csrf_token();
+});
 
-// User
-Route::post('user_create_user','User\UserControllers@store');
 
 // Shop
 Route::get('user_create_shop','Shop\ShopControllers@store');
@@ -28,3 +29,5 @@ Route::get('user_create_product_list/{id?}','Shop\ShopControllers@show');
 // Shop Product
 Route::get('user_create_product','Product\ProductControllers@store');
 Route::get('user_create_product','Product\ProductControllers@store');
+
+

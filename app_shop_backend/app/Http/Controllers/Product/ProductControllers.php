@@ -15,7 +15,6 @@ class ProductControllers extends Controller
      */
     public function index()
     {
-        //
     }
 
     /**
@@ -25,7 +24,7 @@ class ProductControllers extends Controller
      */
     public function create()
     {
-        //
+
     }
 
     /**
@@ -34,8 +33,8 @@ class ProductControllers extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
-    {
+    public function store(Request $request){
+
         $product = new product();
         $product->id_shop = "1";
         $product->name = "Product3";
